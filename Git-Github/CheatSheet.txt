@@ -1,0 +1,15 @@
+Comandos mas utilizado en Git-GitHub
+1. git init: este comando permite iniciar un repositorio nuevo dentro de nuestro computador es decir un nuevo repositorio local.
+2. git remote add origin <link de repositorio remoto>: este comando permite conectar nuestro repositorio local con nuestro repositorio Remoto en GitHub.
+3. git add . : agrega todos los archivos y los deja en estado tracked y listos para realizar un commit
+4. git commit -m "mensaje descriptivo del commit": crea un punto donde todos los datos añadidos con git add se suben a nuestro repositorio local
+5. git push origin main: sube a nuestro repositorio remoto todos los commits realizados en nuestro repositorio local
+6. git clone <link de repositorio remoto>: crea un repositorio local haciendo una copia del repositorio remoto que se coloque en el link
+7. git pull origin main: actualiza nuestro repositorio local con todos los cambios que haya sufrido el repositorio remoto
+8. git checkout <nombre de la rama>: cambia a la rama especificada
+9. git checkout <hash>: coloca al repositorio en el estado en el que se encontraba en el commit especificado con su hash
+10. git branch <nombre rama>: crea una rama con un nombre especificado
+11. git status: muestra el estado de los archivos
+12. git config user.name=<nombre de usuario>: configura el usuario con la especificación dada
+13. git config user.email=<email del usuario>: configura el email con la especificación dada
+
