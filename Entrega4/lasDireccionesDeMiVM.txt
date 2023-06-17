@@ -1,0 +1,9 @@
+Dirección IP privada máquina virtual: 10.0.2.15
+Dirección IP publica máquina virtual: 200.125.230.223
+Dirección MAC maquina virtual: 08:00:27:d5:64:63
+
+¿Es direfente a la IP pública de nuestra máquina host?
+
+No, esto se debe a que se sigue utilizando el mismo modo de conexión 
+utiliza el mismo router/modem para realizar su conexión a internet al 
+igual que el mismo ISP, y por ello hace la misma "ruta de conexión"
